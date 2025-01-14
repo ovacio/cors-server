@@ -1,0 +1,12 @@
+{
+  "name": "cors-server",
+  "version": "1.0.0",
+  "description": "A personal cors-server",
+  "main": "server.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
